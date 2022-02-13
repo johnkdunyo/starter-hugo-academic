@@ -17,7 +17,8 @@ publication_types:
 authors:
   - Benjamin Kommey
   - admin
-  - Eric Tutu Tchao and Andrew Selasi Agbemenu
+  - Eric Tutu Tchao
+  - Andrew Selasi Agbemenu
 author_notes:
   - KNUST
   - KNUST
