@@ -1,6 +1,6 @@
 ---
 title: John Kwame Dunyo
-role: Professor of Artificial Intelligence
+role: Software Developer | Research Engineer | Enterpreneur
 avatar_filename: avatar.jpeg
 bio: My research interests include Computer Vision, Machine Learning, Robotics
   and Intelligent Systems.
