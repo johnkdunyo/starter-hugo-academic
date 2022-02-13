@@ -19,10 +19,10 @@ authors:
   - admin
   - Eric Tutu Tchao and Andrew Selasi Agbemenu
 author_notes:
-  - Department of Computer Engineering
-  - Kwame Nkrumah University of Science and Technology
-  - KNUST-Kumasi
-  - Ghana;
+  - KNUST
+  - KNUST
+  - KNUST
+  - KNUST
 publication: Jounal of Research in Engineering and Applied Sciences
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -35,7 +35,7 @@ url_video: ""
 title: "A COMPARATIVE STUDY OF COMMON EDGE DETECTION OPERATORS IN DIGITAL IMAGE
   PROCESSING "
 doi: https://doi.org/10.46565/jreas.2021.v06i04.001
-featured: true
+featured: false
 tags: []
 projects:
   - example
