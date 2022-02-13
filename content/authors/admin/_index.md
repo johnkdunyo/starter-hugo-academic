@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/johnkdunyo
 organizations:
-  - name: Broadspectrul Ltd
+  - name: Broadspectruml Ltd
     url: https://www.broadspectrumltd.com
 education:
   courses:
