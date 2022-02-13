@@ -36,9 +36,12 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+John is a highly-motivated and hardworking technology and innovation enthusiast, with more than 2 years of hands-on experience in delivering key insights via data analytics and data-driven methods.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+\
+He is an undergraduate studying computer engineering with key interests in Embedded Systems, IoT, Data Science, and Business Analytics\
+John is a strong team player with intermediary proficiency in product development and project management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
