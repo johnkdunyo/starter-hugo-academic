@@ -42,6 +42,8 @@ John is a highly-motivated and hardworking technology and innovation enthusiast,
 He is an undergraduate studying computer engineering with key interests in Embedded Systems, IoT, Data Science, and Business Analytics\
 John is a strong team player with intermediary proficiency in product development and project management.
 
+I have built a couple of startups. Key among them is [FarmSens](http://farmsens.netlify.app/), the next generation smart soil sensors with realtime farm analytics.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
