@@ -19,8 +19,10 @@ authors:
   - admin
   - Eric Tutu Tchao and Andrew Selasi Agbemenu
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Department of Computer Engineering
+  - Kwame Nkrumah University of Science and Technology
+  - KNUST-Kumasi
+  - Ghana;
 publication: Jounal of Research in Engineering and Applied Sciences
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
