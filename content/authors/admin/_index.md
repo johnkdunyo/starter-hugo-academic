@@ -7,7 +7,8 @@ bio: My research interests include Computer Vision, Machine Learning, Robotics
 interests:
   - Computer Vision
   - Machine Learning
-  - Robotics and Intelligent Systems.
+  - Robotics 
+  - Intelligent Systems.
 social:
   - icon: envelope
     icon_pack: fas

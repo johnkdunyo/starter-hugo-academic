@@ -22,28 +22,67 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Software Developer
+    company: Broadspectrum Ltd
+    company_url: 'https://broadspectrumltd.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Accra, Ghana
+    date_start: '2021-11-01'
+    date_end: ''
+
+  - title: Research Assistant
+    company: Kommey's Lab; Department of Computer Engineering
+    company_url: 'https://compeng.knust.edu.gh/'
+    company_logo: org-gc
+    location: Kumasi, Ghana
+    date_start: '2021-06-01'
+    date_end: ''
+    # description: 'Computer Vision, Intelligent Systems'
+
+  - title: Lead Developer
+    company: Moreplex Ghana Limited 
+    company_url: 'https://moreplexgh.com'
+    company_logo: org-gc
+    location: Kumasi, Ghana
+    date_start: '2021-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+
+  - title: Team Lead
+    company: FarmSens 
+    company_url: 'https://farmsens.app.netlify'
+    company_logo: org-gc
+    location: Kumasi, Ghana
+    date_start: '2019-04-01'
+    date_end: ''
+    description: |2-
+
+  - title: Network Operating Center Engineer
+    company: Bluetown Ghana
+    company_url: 'https://bluetown.com'
+    company_logo: org-gc
+    location: Accra, Ghana
+    date_start: '2021-10-01'
+    date_end: '2021-11-01'
+
+  - title: Junior Data Scientist
+    company: Magmarkd Pvt Ltd
+    company_url: 'https://magmarkd.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Maharashtra, India
+    date_start: '2020-04-01'
+    date_end: '2020-11-01'
+    description: |2-
+
+       
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
