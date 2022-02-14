@@ -1,25 +1,21 @@
 ---
-title: DeepVC
-summary: \[**In Progress**\] A framework for training deep learning models using Volunteer computing. This will allow models to be trained in a distributed manner on devices from volunteer participants. The goal is to provide a cheaper alternative for training large scale models.
-date: "2021-09-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: "https://www.hermannkumbong.com/"
-
-image:
-  caption: Neural Network
-  focal_point: Smart
-
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
+url_pdf: ""
+summary: >-
+  [**In Progress**] An openCV  cum ML model to detect and locate room occupancy
+  implemented using OpenCV, HOG and linear SVM. The model is highly optimized to
+  run on resource-constrained computing devices such as a rapsbery pi. 
+
+
+  Paper currently under review by Journal of Information Technology and Computer Engineering (JITCE)
+url_video: ""
+date: 2022-02-14T10:57:13.137Z
+external_link: ""
+url_slides: ""
+title: Room Occupancy and Localization Model
+links: null
+image:
+  caption: Computer Vision, Intelligent Systems, OpenCV
+  focal_point: Smart
+url_code: ""
 ---
