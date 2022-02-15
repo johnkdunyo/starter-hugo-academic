@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An implementation of a 16 bit microprocessor based on the RISC
   architecture in Logisim. Work is solely for academic purposes.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2021-12-30T23:09:03.277Z
 external_link: https://github.com/Kumbong/mini-mips
 url_slides: ""
 title: Microprocessor Design
