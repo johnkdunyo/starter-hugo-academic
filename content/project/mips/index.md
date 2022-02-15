@@ -1,39 +1,28 @@
 ---
-title: Microprocessor Design
-summary:  Design and simulation of a 32-bit, RISC processor based on the MIPS instruction set architecture from scratch. The processor can perform a total of 16 operations including jump and branching operations.
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+slides: ""
+url_pdf: ""
+summary: An implementation of a 16 bit microprocessor based on the RISC
+  architecture in Logisim. Work is solely for academic purposes.
+url_video: ""
+date: 2016-04-27T00:00:00Z
 external_link: https://github.com/Kumbong/mini-mips
-
+url_slides: ""
+title: Microprocessor Design
+links:
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: https://github.com/johnkdunyo/Microprocessor-Design
+  - icon: file-pdf
+    icon_pack: fas
+    name: Report
+    url: https://github.com/johnkdunyo/Microprocessor-Design/blob/main/Docs/group1%20microP.pdf
+  - icon: file-powerpoint
+    icon_pack: fas
+    name: Slides
+    url: https://docs.google.com/presentation/d/11QtmPwiWaLjP2UUdY72RIeK6Vpk25ZqG8AXNObAsn3w/edit#slide=id.p1
 image:
   caption: Microprocessor
   focal_point: Smart
-
-links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/Kumbong/mini-mips
-- icon: file-pdf
-  icon_pack: fas
-  name: Report
-  url: https://github.com/Kumbong/mini-mips/blob/master/docs/report.pdf
-- icon: file-powerpoint
-  icon_pack: fas
-  name: Slides
-  url: https://docs.google.com/presentation/d/1MpAyyyyIRhAAk4YZGEPiKS5p76khfpoZ/edit#slide=id.p1
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
-
-
