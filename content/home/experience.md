@@ -25,7 +25,7 @@ experience:
   - title: Software Developer
     company: Broadspectrum Ltd
     company_url: 'https://broadspectrumltd.com'
-    company_logo: org-gc
+    company_logo: bsl
     location: Accra, Ghana
     date_start: '2021-11-01'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
   - title: Research Assistant
     company: Kommey's Lab; Department of Computer Engineering
     company_url: 'https://compeng.knust.edu.gh/'
-    company_logo: org-gc
+    company_logo: knust
     location: Kumasi, Ghana
     date_start: '2021-06-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Lead Developer
     company: Moreplex Ghana Limited 
     company_url: 'https://moreplexgh.com'
-    company_logo: org-gc
+    company_logo: moreplex
     location: Kumasi, Ghana
     date_start: '2021-06-01'
     date_end: ''
@@ -50,8 +50,8 @@ experience:
 
   - title: Team Lead
     company: FarmSens 
-    company_url: 'https://farmsens.app.netlify'
-    company_logo: org-gc
+    company_url: 'https://farmsens.netlify.app/'
+    company_logo: farmsens
     location: Kumasi, Ghana
     date_start: '2019-04-01'
     date_end: ''
@@ -60,7 +60,7 @@ experience:
   - title: Network Operating Center Engineer
     company: Bluetown Ghana
     company_url: 'https://bluetown.com'
-    company_logo: org-gc
+    company_logo: btown
     location: Accra, Ghana
     date_start: '2021-10-01'
     date_end: '2021-11-01'
@@ -68,7 +68,7 @@ experience:
   - title: Junior Data Scientist
     company: Magmarkd Pvt Ltd
     company_url: 'https://magmarkd.com/'
-    company_logo: org-x
+    company_logo: mag
     location: Maharashtra, India
     date_start: '2020-04-01'
     date_end: '2020-11-01'
