@@ -35,9 +35,20 @@ design:
   view: 2
 
 gallery_item:
-- album: mentorship
-  image: image1.jpg
-  caption: Mentorship session at Open Dreams Organization, Yaounde, Cameroon
+- album: premest
+  image: premest0001.jpeg
+  caption: PreMest mentorship at kumasi, Ghana
+- album: premest
+  image: premest0002.jpeg
+  caption: PreMest mentorship at kumasi, Ghana
+
+- album: avetech
+  imgae: avetech002.jpg
+  caption: Avenor tech and innovation boot camp, akatsi
+- album: avetech
+  imgae: avetech006.jpg
+  caption: Avenor tech and innovation boot camp, akatsi
+
 - album: mentorship
   image: image4.jpg
   caption: Mentorship session at Open Dreams Organization, Yaounde, Cameroon
@@ -47,29 +58,32 @@ gallery_item:
 - album: tutoring
   image: image6.jpg
   caption: Leading Machine Learning Workshop at KNUST Innovation Centre, 2019
-- album: hobbies
-  image: baobab.jpg
-  caption: Baobab Leadership Summit Kigali, Rwanda 2018
-- album: hobbies
-  image: baobab2.jpg
-  caption: Baobab Leadership Summit Kigali, Rwanda 2018
+
 - album: community
   image: image3.jpg
   caption: Mastercard Foundation Scholars international service day, 2017
 - album: community
   image: image7.jpg
   caption: Mastercard Foundation Scholars international service day, 2019
----
-**Mentorship:** I am very passionate about mentoring and supporting others to realize their true potential. I co-founded [Anansi Mentorship](), with [@Twum-Ampofo](https://www.linkedin.com/in/kofiapeakorang/) and [@Ermyntrude](https://mcfscholars.asu.edu/scholars/phase-ii-scholars/ermyntrude-adjei), together we are helping bridge the gap between students from Universities in Africa and opportunities around the globe. I am also a member of the [Elevate Mentorship program](https://sites.google.com/miafrik.org/elevate/about-us/our-mentors) where I help mentor university students back in Cameroon. At [Open Dreams](https://www.open-dreams.org/), I help high-achieving, low-income high school students from Cameroon in their quest for securing scholarships to pursue a university education.
-{{< gallery album="mentorship" >}}
 
-**Tutoring:** When I am not leading mentorship initiatives, I am busy taking part in [initiatives](https://www.linkedin.com/feed/update/urn:li:activity:6607347347779387392/) that build other people's technical skills. I was the lead for Artificial Intelligence at the [KNUST Innovation Centre]() where I led several training initiatives. At Goldman Sachs, I am part of the Career Development Pillar of the Black Engineer's Network, where I help run initiatives to promote black excellence. 
-{{< gallery album="tutoring" >}}
+- album: hobbies
+  image: baobab.jpg
+  caption: Baobab Leadership Summit Kigali, Rwanda 2018
+- album: hobbies
+  image: tech.jpg
+  caption: Teacher at holy child
+---
+**Mentorship-PreMest:** I am very passionate about mentoring and supporting others to realize their true potential. My latest mentorship was with PreMEST, an early-stage training program that targets young people seeking digital skills training and employment opportunities, as well as entrepreneurs with the desire to build their technology and business acumen and launch their own ventures. It was done in partnership with the [MasterCard Foundation](https://mastercardfdn.org) through the [Young Africa Works initiative](https://mastercardfdn.org/research/young-africa-works/) and [Mest Africa](https://meltwater.org/).
+As a Pre-Mest mentor with the [Women's Haven Africa Hub](https://womenshavenafrica.com/), I provided hands-on business and technical guidance to my assigned teams from ideation to execution.
+{{< gallery album="premest" >}}
+
+**Tutoring:** When I am not leading mentorship initiatives, I am busy taking part or leading initiatives that build other people's technical skills. I spearheaded the annual [Avenor Tech and Innovation Bootcamp]() where we provide hands-on tranning on latest technologies coupled with access to mentorship for students and people of Akatsi South District, Volta Region, Ghana
+{{< gallery album="avetech" >}}
 
 **Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more.
 {{< gallery album="community" >}} 
 
-**Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player, you can hit me up for a pickup game but [please mind your ankles](https://youtu.be/OlUe4uzSQD4?t=85) :) . I led my high school team to win the regional basketball tournament  in Cameroon. 
+**Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am currenlty learning to play the piano. I love to read and ride bicycles withing my free times
 {{< gallery album="hobbies" >}} 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  

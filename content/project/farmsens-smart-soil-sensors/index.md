@@ -12,8 +12,13 @@ featured: false
 external_link: https://farmsens.netlify.app/
 links:
   - url: https://farmsens.netlify.app/
+
+  - icon: video
+    icon_pack: fas
+    name: Demo
+    url: https://youtu.be/ZABN8_jRCXQ
 image:
   filename: portable.png
   focal_point: Smart
-  preview_only: false
+  # preview_only: false
 ---
