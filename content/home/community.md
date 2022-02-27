@@ -67,17 +67,20 @@ gallery_item:
   caption: Mastercard Foundation Scholars international service day, 2019
 
 - album: hobbies
-  image: baobab.jpg
-  caption: Baobab Leadership Summit Kigali, Rwanda 2018
+  image: aces.jpg
+  caption: Aces election campaings
 - album: hobbies
   image: tech.jpg
   caption: Teacher at holy child
+- album: hobbies
+  imgae: khive.jpg
+  caption: Kumasi hive meetup
 ---
 **Mentorship-PreMest:** I am very passionate about mentoring and supporting others to realize their true potential. My latest mentorship was with PreMEST, an early-stage training program that targets young people seeking digital skills training and employment opportunities, as well as entrepreneurs with the desire to build their technology and business acumen and launch their own ventures. It was done in partnership with the [MasterCard Foundation](https://mastercardfdn.org) through the [Young Africa Works initiative](https://mastercardfdn.org/research/young-africa-works/) and [Mest Africa](https://meltwater.org/).
 As a Pre-Mest mentor with the [Women's Haven Africa Hub](https://womenshavenafrica.com/), I provided hands-on business and technical guidance to my assigned teams from ideation to execution.
 {{< gallery album="premest" >}}
 
-**Tutoring:** When I am not leading mentorship initiatives, I am busy taking part or leading initiatives that build other people's technical skills. I spearheaded the annual [Avenor Tech and Innovation Bootcamp]() where we provide hands-on tranning on latest technologies coupled with access to mentorship for students and people of Akatsi South District, Volta Region, Ghana
+**Tutoring:** When I am not leading mentorship initiatives, I am busy taking part or leading initiatives that build other people's technical skills. I spearheaded the annual [Avenor Tech and Innovation Bootcamp](https://photos.app.goo.gl/ur6EC3pTJmpapBib8) where we provide hands-on tranning on latest technologies coupled with access to mentorship for students and people of Akatsi South District, Volta Region, Ghana
 {{< gallery album="avetech" >}}
 
 **Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more.
