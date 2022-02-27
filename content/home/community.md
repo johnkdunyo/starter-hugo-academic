@@ -43,7 +43,7 @@ gallery_item:
   caption: PreMest mentorship at kumasi, Ghana
 
 - album: avetech
-  imgae: avetech002.jpg
+  imgae: avetech001.jpg
   caption: Avenor tech and innovation boot camp, akatsi
 - album: avetech
   imgae: avetech006.jpg
