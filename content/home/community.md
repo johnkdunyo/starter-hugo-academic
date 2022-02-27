@@ -70,9 +70,6 @@ gallery_item:
   image: aces.jpg
   caption: Aces election campaings
 - album: hobbies
-  image: tech.jpg
-  caption: Teacher at holy child
-- album: hobbies
   imgae: khive.jpg
   caption: Kumasi hive meetup
 ---
